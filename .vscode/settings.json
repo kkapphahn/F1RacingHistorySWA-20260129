@@ -1,0 +1,12 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [],
+  "mcp.servers": {
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ]
+    }
+  }
+}
